@@ -11,7 +11,7 @@ deberá de estar embebido dentro de html.*/
 
 <?php
 
-$saludo="Hola Mundo";
+$saludo="Hola Mundo modificado";
 
 
 //Comillas dobles para las variables"

@@ -11,7 +11,7 @@ deberá de estar embebido dentro de html.*/
 
 <?php
 
-$saludo="Hola Mundo modificado";
+$saludo="Hola Mundo modificado para pantallazos";
 
 
 //Comillas dobles para las variables"
